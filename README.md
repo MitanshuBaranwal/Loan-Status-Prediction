@@ -1,4 +1,5 @@
 # Loan-Status-Prediction
+Build Model to predict Loan Status
 
 git clone https://github.com/MitanshuBaranwal/Loan-Status-Prediction.git
 
